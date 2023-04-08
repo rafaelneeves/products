@@ -3,7 +3,7 @@ Backend
 PHP: 8.2.4
 Larevel: 10.6.2
 
-Instalar o composer: composer install 
+Instalar o composer: composer install <br>
 Subir containers:  ./vendor/bin/sail up
 Executar Migrations: php artisan migrate
 
