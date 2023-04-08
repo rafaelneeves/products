@@ -1,17 +1,17 @@
-Backend
+Backend<br>
 
-PHP: 8.2.4
-Larevel: 10.6.2
+PHP: 8.2.4<br>
+Larevel: 10.6.2<br>
 
 Instalar o composer: composer install <br>
-Subir containers:  ./vendor/bin/sail up
-Executar Migrations: php artisan migrate
+Subir containers:  ./vendor/bin/sail up <br>
+Executar Migrations: php artisan migrate<br>
 
-Frontend
-Vue: 3.2
-Bootstrap: 4.6
-Axios: 0.21.1
-Vue Router: 4.1.6
+Frontend<br>
+Vue: 3.2<br>
+Bootstrap: 4.6<br>
+Axios: 0.21.1<br>
+Vue Router: 4.1.6<br>
 
-npm install
-npm run dev
+npm install<br>
+npm run dev<br>
